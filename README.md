@@ -79,7 +79,7 @@ Ein umfassender, mehrsprachiger Discord Bot mit erweiterten Funktionen für Comm
 
 ### 1. Repository klonen
 ```bash
-git clone https://github.com/yourusername/aegis-discord-bot.git
+git clone https://github.com/einmalmaik/AEGIS-Discord-BOT.git
 cd aegis-discord-bot
 ```
 
