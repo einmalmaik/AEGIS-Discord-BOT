@@ -211,9 +211,9 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE` Datei für Details.
 
 ## 🆘 Support
 
-- **Discord Server**: [Einladungslink]
+- **Discord Server**: https://discord.gg/pxPzZj5Nqj
 - **Issues**: [GitHub Issues](https://github.com/yourusername/aegis-discord-bot/issues)
-- **E-Mail**: support@yourproject.com
+- **E-Mail**: mauntingstudios@gmail.com
 
 ## 🙏 Danksagungen
 
